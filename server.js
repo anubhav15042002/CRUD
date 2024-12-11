@@ -19,10 +19,3 @@ app.use('/api/items' , itemRoutes);
 app.listen(port,()=>{
     console.log('Server started on port 5000');
 });
-
-
-
-
-
-
-
